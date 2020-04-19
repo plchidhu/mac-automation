@@ -2,7 +2,7 @@
 Scripts in this folder automates mundane activities using Mac
 -------------------------------------------------------------
 
-1. Wholefoods-checkout
+### 1. Wholefoods-checkout.scpt
 * Credits to https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder
 * Base version is from https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder
 * Extended base version with automated checkout  
@@ -29,8 +29,8 @@ Play the script and you will get notified once the slots opens or checkout attem
 Once you got the notification look for the safari window that has the respective site open or check your cart/mail for confirmation.
 
 
-2. costco-delivery-window-finder
+### 2. costco-delivery-window-finder.scpt
 * The script will find the costco sameday delivery window. 
 
-3. Wholefoods-auto-checkout
+### 3. Wholefoods-auto-checkout.scpt
 * The script will attempt auto checkout of wholefoods cart in amazon.com site.
