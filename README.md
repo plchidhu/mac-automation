@@ -1,5 +1,6 @@
 # mac-automation
-Scripts to automate mundane activities in Mac
+Scripts in this folder automates mundane activities using Mac
+-------------------------------------------------------------
 
 1. Wholefoods-checkout
 -- Credits to https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder
