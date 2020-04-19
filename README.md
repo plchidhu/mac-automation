@@ -3,10 +3,10 @@ Scripts in this folder automates mundane activities using Mac
 -------------------------------------------------------------
 
 1. Wholefoods-checkout
--- Credits to https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder
--- Base version is from https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder
--- Extended base version with automated checkout  
--- Note: Base version requires manual action to checkout. Even after doing checkout as soon as the message is received, 
+* Credits to https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder
+* Base version is from https://github.com/ahertel/Amazon-Fresh-Whole-Foods-delivery-slot-finder
+* Extended base version with automated checkout  
+Note: Base version requires manual action to checkout. Even after doing checkout as soon as the message is received, 
 the slot was no longer available. Hence attempted to automate the checkout process in this version. 
 There is no guarantee that the automated steps will complete checkout and requires manual confirmation in site.
 
